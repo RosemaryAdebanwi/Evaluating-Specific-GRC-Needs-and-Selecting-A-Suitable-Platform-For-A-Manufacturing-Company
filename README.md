@@ -14,7 +14,7 @@ When a manufacturing company faced growing regulatory pressures on ethical sourc
 
 <h2>Recommended GRC Platforms:</h2>
 
-<img src="https://img.shields.io/badge/-SAP_Ariba-722F37?&style=for-the-badge&logo=SAP&logoColor=white" /> <img src="https://img.shields.io/badge/-EcoVadis-8B4513?&style=for-the-badge&logo=EcoVadis&logoColor=white" /> <img src="https://img.shields.io/badge/-Assent_Compliance-800080?&style=for-the-badge&logo=Assent&logoColor=white" />
+[![SAP Ariba](https://img.shields.io/badge/-SAP_Ariba-722F37?&style=for-the-badge&logo=SAP&logoColor=white)](https://www.ariba.com/)  [![EcoVadis](https://img.shields.io/badge/-EcoVadis-8B4513?&style=for-the-badge&logo=EcoVadis&logoColor=white)](https://ecovadis.com/)  [![Assent Compliance](https://img.shields.io/badge/-Assent_Compliance-800080?&style=for-the-badge&logo=Assent&logoColor=white)](https://www.assent.com/)
 
 
 
